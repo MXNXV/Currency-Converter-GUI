@@ -1,0 +1,29 @@
+{
+    "params":
+    {
+        "base": "United States Dollar", "date": "2020-07-24", "time last updated":1595549050, 
+        "rates": 
+        {
+            "United States Dollar":1,"Arab Emirates Dirham":3.671982, "Argentine Peso":71.740672, "Australian Dollar" :1.403963, 
+            "Bulgarian Lev":1.689597, "Brazillian real":5.138815, "Bahamian Dollar":1, 
+            "Canadian Dollar" :1.339464, "Swiss France":0.927236,"Chilean Peso":768.47066, "Chinese Yuan":7.006136, "Columbian Peso":3662.190476, "Czechoslovak Koruna":22.750753, 
+            "Danish Krone" :6.430665, "Dominican Peso":58.350531, 
+            "Egyptian Pound":15.982128, "Euro":0.863249, 
+            "Fijian Dollar":2.137703, 
+            "Pound Sterling":0.786491 ,"Guatemalan Quetzal":7.692138, 
+            "Hong Kong Dollar":7.751282, "Croatian Kuna" :6.498144, "Hungaian Forint":300.249864, 
+            "Indonesian Rupiah":14747.013107, "Israeli Shekel":3.418623, "Indian Rupee":74.800282, "Icelandic Krona" :136.328616, 
+            "Japanese Yen":107.073736, "South Korean won" :1200.159277, "Kazakhstani Tenge":413.473118, 
+            "Maldivian Rufiya ": 15.39, "Mexican Peso":22.413409, "Malaysian Ringgit" :4.255183, 
+            "Norwegian Krone":9.171795, "New Zealand Dollars":1.502788, 
+            "Panamanian Balboa":1, "Sol(Peru)":3.512472," Philippine Peso" :49.405187, "Pakistani Rupee":166.824295, "Poland zloty":3.814779, "Paraguayan Guarani" :6991.454545, 
+            "Romanian Leu":4.17705, "Russian Rubble" :71.213134, "Saudi Riyal" :3.750135, "Swedish Krona":8.863017, "Singapore dollar":1.385268, 
+            "Thai baht":31.675416, "Turkish Lira":6.842632, "New taiwan dollar":29.434189 ,
+            "Ukrainian hryvnia" : 27.801218, "Uruguayan Peso":42.749305, 
+            "South African Rand":16.578909
+            
+        }
+        
+    }
+
+}
